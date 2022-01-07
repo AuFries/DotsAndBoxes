@@ -1,4 +1,4 @@
-A terminal-based dots and boxes game using ANSI escape sequences. The game is controlled with keyboard input.
+A terminal-based dots and boxes game using ANSI escape sequences. The game is controlled with keyboard input and uses the Blessed module to streamline terminal commands.
 
 # DotsAndBoxes![Screenshot (1368)](https://user-images.githubusercontent.com/72180759/148471118-ece92c05-4569-4408-a58f-3516286dc2c6.png)
 
